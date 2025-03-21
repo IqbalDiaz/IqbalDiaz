@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Iqbal
 
-<!--
-**IqbalDiaz/IqbalDiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **Diploma student in Network Security** at **GMI**, also studying **Technology System Computer** at **GiatMara**. Passionate about cybersecurity, web development, and digital forensics.
 
-Here are some ideas to get you started:
+## 💻 Skills & Interests
+- **Programming**: Python, HTML, CSS, JavaScript, MySQL
+- **Cybersecurity**: SQL Injection, Digital Forensics, Network Security
+- **Tools**: SQLMap, PyCharm, VS Code
+- **Other Interests**: Ethical hacking, penetration testing, digital evidence preservation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Notable Projects
+### 🔹 [InjeXcanner]
+A **SQL Injection Scanner** for detecting vulnerabilities, classifying their severity, and generating reports. Built using **Python, HTML, CSS, JavaScript, and MySQL**.
+
+## 📜 Certifications & Achievements
+- (List any relevant certifications here)
+
+## 📫 Connect with Me
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
+- **GitHub**: [Your GitHub](https://github.com/your-username)
+- **Email**: your.email@example.com
+
+Feel free to explore my repositories and projects! 🚀
