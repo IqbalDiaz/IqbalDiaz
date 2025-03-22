@@ -17,7 +17,7 @@ A **SQL Injection Scanner** for detecting vulnerabilities, classifying their sev
 - (List any relevant certifications here)
 
 ## 📫 Connect with Me
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
+- **LinkedIn**: https://www.linkedin.com/in/iqbal-erman-601893304/
 - **GitHub**: [Your GitHub](https://github.com/your-username)
 - **Email**: your.email@example.com
 
