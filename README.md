@@ -46,7 +46,7 @@ I have hands-on experience from working as an **IT Technical Assistant** at **Pu
   - Networking Basics 🌐
   - Networking Devices & Initial Configuration 🔌
 - **GiatMARA (2019)**: 
-  - PC Maintenance & Basic Networking (under SKM Level 3) 🔧
+  - Teknologi Sistem Komputer (COMPUTER SYSTEM TECHNOLOGY) (SKM Level 3) 🔧
 
 ## 📫 Connect with Me
 - **LinkedIn**: [Iqbal Erman LinkedIn](https://www.linkedin.com/in/iqbal-erman-601893304/)
