@@ -55,4 +55,18 @@ I have hands-on experience from working as an **IT Technical Assistant** at **Pu
 
 Feel free to explore my repositories and projects! 🚀
 
+---
+
+<h3 align="left">🔥   My Stats :</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=IqbalDiaz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+---
+
 > "The quieter you become, the more you can hear." – Ram Dass
+
+---
+
+<img align="left" height="200" src="https://media.giphy.com/media/5wOE41xvGnZmXaheHV/giphy.gif?cid=ecf05e473o3qg5mjm2b6v4z7erj765ynf1a0eer7zactjju6&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
