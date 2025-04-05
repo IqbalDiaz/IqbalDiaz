@@ -36,8 +36,23 @@ I’m a **Diploma student in Network Security** at **German-Malaysian Institute 
 ### 🔹 [InjeXcanner](#)
 A **SQL Injection Scanner** that detects vulnerabilities, classifies their severity, and generates reports. This project uses **Python, HTML, CSS, JavaScript, and MySQL**.
 
-### 🔹 IT Support Experience
-I have hands-on experience from working as an **IT Technical Assistant** at **Pusat Pengajian Islam At-Taiyyibin**, where I set up computers, performed troubleshooting, and helped manage office hardware and software systems. 
+## 💼 Work Experience
+
+### 🔹 **IT Technical Assistant**  
+Pusat Pengajian Islam At-Taiyyibin, Chemor, Perak | 2021 - 2022  
+- Set up and maintained office computers and printer systems.  
+- Provided on-site troubleshooting support for staff.  
+- Managed document printing, filing, and basic digital organization.  
+
+### 🔹 **Intern**  
+GIATMARA at JAIPK, Ipoh, Perak | Jan 2020 - Mar 2020  
+- Assisted in the maintenance and troubleshooting of IT systems.  
+- Provided technical support for office software and hardware.  
+- Participated in network setup and configuration under supervision.
+
+### 🔹 **Seeking Internship**  
+- Actively seeking an internship opportunity to further develop my skills in **IT support**, **network security**, and **cybersecurity**.  
+- Eager to apply theoretical knowledge gained from my studies to real-world challenges in a professional environment.
 
 ## 📜 Certifications & Achievements
 - **Cisco Networking Academy**: 
