@@ -9,7 +9,7 @@
 # Hi there! 👋 I'm Iqbal Erman
 
 ## 🚀 About Me
-I’m a **Diploma student in Network Security** at **German-Malaysian Institute (GMI)** and have a **Malaysian Skills Certificate (SKM) Level 3** from **GIATMARA Ipoh Barat**. Passionate about IT support, networking, cybersecurity, and digital forensics. I’m eager to apply my technical skills in real-world environments through internships and hands-on projects. 💻🔐
+I’m a **Diploma student in Network Security** at **German-Malaysian Institute (GMI)** and have a **Malaysian Skills Certificate (SKM) Level 3** from **GIATMARA Ipoh Barat**. Passionate about IT support, networking, and cybersecurity. I’m eager to apply my technical skills in real-world environments through internships and hands-on projects. 💻🔐
 
 ## 💻 Skills & Interests
 - **Programming**: 
@@ -42,9 +42,9 @@ I have hands-on experience from working as an **IT Technical Assistant** at **Pu
 ## 📜 Certifications & Achievements
 - **Cisco Networking Academy**: 
   - IT Essentials: PC Hardware & Software 🖥️
-  - Introduction to Cybersecurity 🔒
-  - Networking Basics 🌐
-  - Networking Devices & Initial Configuration 🔌
+  - Introduction to Networks 🔒
+  - Switching, Routing, and Wireless Essentials 🌐
+  - Enterprise Networking, Security, and Automation 🔌
 - **GiatMARA (2019)**: 
   - Teknologi Sistem Komputer (COMPUTER SYSTEM TECHNOLOGY) (SKM Level 3) 🔧
 
