@@ -36,6 +36,14 @@ I’m a **Diploma student in Network Security** at **German-Malaysian Institute 
 ### 🔹 [InjeXcanner](#)
 A **SQL Injection Scanner** that detects vulnerabilities, classifies their severity, and generates reports. This project uses **Python, HTML, CSS, JavaScript, and MySQL**.
 
+### 🔹 Library Management Website (Mini Project)
+A simple **HTML & CSS** website project designed to manage and display library book information and borrowing records.
+
+### 🔹 Java Parking System (Mini Project)
+A **Java-based application** that manages parking slots, calculates fees, and keeps track of vehicle entries and exits.
+
+### 🔹 Java Cafe Ordering System (Mini Project)
+A **Java-based system** that allows customers to place orders, view menu items, and calculate total payments efficiently.
 ## 💼 Work Experience
 
 ### 🔹 **IT Technical Assistant**  
